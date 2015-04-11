@@ -11,4 +11,4 @@ Final Design Report.
 
 Team Members: Marcio and David. 
 
-Note: Design is not workign as a whole. Audio parts are working  and video parts are working.
+Note: Design is not working as a whole. Audio parts are working  and video parts are working.
